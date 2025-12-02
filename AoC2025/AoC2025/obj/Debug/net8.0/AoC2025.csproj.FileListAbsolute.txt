@@ -1,0 +1,14 @@
+C:\Users\sonia\Desktop\AoC2025\AoC2025\bin\Debug\net8.0\AoC2025.exe
+C:\Users\sonia\Desktop\AoC2025\AoC2025\bin\Debug\net8.0\AoC2025.deps.json
+C:\Users\sonia\Desktop\AoC2025\AoC2025\bin\Debug\net8.0\AoC2025.runtimeconfig.json
+C:\Users\sonia\Desktop\AoC2025\AoC2025\bin\Debug\net8.0\AoC2025.dll
+C:\Users\sonia\Desktop\AoC2025\AoC2025\bin\Debug\net8.0\AoC2025.pdb
+C:\Users\sonia\Desktop\AoC2025\AoC2025\obj\Debug\net8.0\AoC2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonia\Desktop\AoC2025\AoC2025\obj\Debug\net8.0\AoC2025.AssemblyInfoInputs.cache
+C:\Users\sonia\Desktop\AoC2025\AoC2025\obj\Debug\net8.0\AoC2025.AssemblyInfo.cs
+C:\Users\sonia\Desktop\AoC2025\AoC2025\obj\Debug\net8.0\AoC2025.csproj.CoreCompileInputs.cache
+C:\Users\sonia\Desktop\AoC2025\AoC2025\obj\Debug\net8.0\AoC2025.dll
+C:\Users\sonia\Desktop\AoC2025\AoC2025\obj\Debug\net8.0\refint\AoC2025.dll
+C:\Users\sonia\Desktop\AoC2025\AoC2025\obj\Debug\net8.0\AoC2025.pdb
+C:\Users\sonia\Desktop\AoC2025\AoC2025\obj\Debug\net8.0\AoC2025.genruntimeconfig.cache
+C:\Users\sonia\Desktop\AoC2025\AoC2025\obj\Debug\net8.0\ref\AoC2025.dll
