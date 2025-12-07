@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\sonia\\Documents\\GitHub\\AdventOfCode2025\\AoC2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{512D5797-1AAB-407E-88A0-F7AA3B6B14B1}|Day6\\Day6.csproj|c:\\users\\sonia\\documents\\github\\adventofcode2025\\aoc2025\\day6\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{512D5797-1AAB-407E-88A0-F7AA3B6B14B1}|Day6\\Day6.csproj|solutionrelative:day6\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{3F369857-FD2C-47EE-8BC7-EC8ABE2C2295}|Day7\\Day7.csproj|c:\\users\\sonia\\documents\\github\\adventofcode2025\\aoc2025\\day7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F369857-FD2C-47EE-8BC7-EC8ABE2C2295}|Day7\\Day7.csproj|solutionrelative:day7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{512D5797-1AAB-407E-88A0-F7AA3B6B14B1}|Day6\\Day6.csproj|c:\\users\\sonia\\documents\\github\\adventofcode2025\\aoc2025\\day6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{512D5797-1AAB-407E-88A0-F7AA3B6B14B1}|Day6\\Day6.csproj|solutionrelative:day6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E46C504-3BAA-42B1-9760-9DD323745DD6}|Day4\\Day4.csproj|c:\\users\\sonia\\documents\\github\\adventofcode2025\\aoc2025\\day4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E46C504-3BAA-42B1-9760-9DD323745DD6}|Day4\\Day4.csproj|solutionrelative:day4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F369857-FD2C-47EE-8BC7-EC8ABE2C2295}|Day7\\Day7.csproj|c:\\users\\sonia\\documents\\github\\adventofcode2025\\aoc2025\\day7\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F369857-FD2C-47EE-8BC7-EC8ABE2C2295}|Day7\\Day7.csproj|solutionrelative:day7\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC498C9E-C6EC-442A-A9D3-0E3055E2C0A3}|Day3\\Day3.csproj|c:\\users\\sonia\\documents\\github\\adventofcode2025\\aoc2025\\day3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +19,28 @@
       "RelativeMoniker": "D:0:0:{FE47E06A-9747-4240-AAA8-730B020F8F4B}|Day2\\Day2.csproj|solutionrelative:day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1E46C504-3BAA-42B1-9760-9DD323745DD6}|Day4\\Day4.csproj|c:\\users\\sonia\\documents\\github\\adventofcode2025\\aoc2025\\day4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E46C504-3BAA-42B1-9760-9DD323745DD6}|Day4\\Day4.csproj|solutionrelative:day4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512D5797-1AAB-407E-88A0-F7AA3B6B14B1}|Day6\\Day6.csproj|c:\\users\\sonia\\documents\\github\\adventofcode2025\\aoc2025\\day6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512D5797-1AAB-407E-88A0-F7AA3B6B14B1}|Day6\\Day6.csproj|solutionrelative:day6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6589A05D-C1BC-4CC7-A1F3-1DA35930134B}|Day5\\Day5.csproj|c:\\users\\sonia\\documents\\github\\adventofcode2025\\aoc2025\\day5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6589A05D-C1BC-4CC7-A1F3-1DA35930134B}|Day5\\Day5.csproj|solutionrelative:day5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512D5797-1AAB-407E-88A0-F7AA3B6B14B1}|Day6\\Day6.csproj|c:\\users\\sonia\\documents\\github\\adventofcode2025\\aoc2025\\day6\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{512D5797-1AAB-407E-88A0-F7AA3B6B14B1}|Day6\\Day6.csproj|solutionrelative:day6\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1AAFED7-A082-4C50-BE61-A1789A3736A8}|AoC2025\\Day1.csproj|c:\\users\\sonia\\documents\\github\\adventofcode2025\\aoc2025\\aoc2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1AAFED7-A082-4C50-BE61-A1789A3736A8}|AoC2025\\Day1.csproj|solutionrelative:aoc2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6589A05D-C1BC-4CC7-A1F3-1DA35930134B}|Day5\\Day5.csproj|c:\\users\\sonia\\documents\\github\\adventofcode2025\\aoc2025\\day5\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{6589A05D-C1BC-4CC7-A1F3-1DA35930134B}|Day5\\Day5.csproj|solutionrelative:day5\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6589A05D-C1BC-4CC7-A1F3-1DA35930134B}|Day5\\Day5.csproj|c:\\users\\sonia\\documents\\github\\adventofcode2025\\aoc2025\\day5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6589A05D-C1BC-4CC7-A1F3-1DA35930134B}|Day5\\Day5.csproj|solutionrelative:day5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,24 +50,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\sonia\\Documents\\GitHub\\AdventOfCode2025\\AoC2025\\Day7\\input.txt",
+              "RelativeDocumentMoniker": "Day7\\input.txt",
+              "ToolTip": "C:\\Users\\sonia\\Documents\\GitHub\\AdventOfCode2025\\AoC2025\\Day7\\input.txt",
+              "RelativeToolTip": "Day7\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-07T11:14:23.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonia\\Documents\\GitHub\\AdventOfCode2025\\AoC2025\\Day7\\Program.cs",
+              "RelativeDocumentMoniker": "Day7\\Program.cs",
+              "ToolTip": "C:\\Users\\sonia\\Documents\\GitHub\\AdventOfCode2025\\AoC2025\\Day7\\Program.cs",
+              "RelativeToolTip": "Day7\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAkwGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T11:14:07.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sonia\\Documents\\GitHub\\AdventOfCode2025\\AoC2025\\Day3\\Program.cs",
               "RelativeDocumentMoniker": "Day3\\Program.cs",
               "ToolTip": "C:\\Users\\sonia\\Documents\\GitHub\\AdventOfCode2025\\AoC2025\\Day3\\Program.cs",
               "RelativeToolTip": "Day3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-06T19:20:16.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sonia\\Documents\\GitHub\\AdventOfCode2025\\AoC2025\\Day2\\Program.cs",
               "RelativeDocumentMoniker": "Day2\\Program.cs",
@@ -72,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sonia\\Documents\\GitHub\\AdventOfCode2025\\AoC2025\\AoC2025\\Program.cs",
               "RelativeDocumentMoniker": "AoC2025\\Program.cs",
@@ -80,12 +114,11 @@
               "RelativeToolTip": "AoC2025\\Program.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T19:20:02.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T19:20:02.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "input.txt",
               "DocumentMoniker": "C:\\Users\\sonia\\Documents\\GitHub\\AdventOfCode2025\\AoC2025\\Day6\\input.txt",
               "RelativeDocumentMoniker": "Day6\\input.txt",
@@ -98,20 +131,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sonia\\Documents\\GitHub\\AdventOfCode2025\\AoC2025\\Day6\\Program.cs",
               "RelativeDocumentMoniker": "Day6\\Program.cs",
               "ToolTip": "C:\\Users\\sonia\\Documents\\GitHub\\AdventOfCode2025\\AoC2025\\Day6\\Program.cs",
               "RelativeToolTip": "Day6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-06T08:55:51.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "input.txt",
               "DocumentMoniker": "C:\\Users\\sonia\\Documents\\GitHub\\AdventOfCode2025\\AoC2025\\Day5\\input.txt",
               "RelativeDocumentMoniker": "Day5\\input.txt",
@@ -119,31 +152,30 @@
               "RelativeToolTip": "Day5\\input.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-12-05T09:35:34.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T09:35:34.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sonia\\Documents\\GitHub\\AdventOfCode2025\\AoC2025\\Day5\\Program.cs",
               "RelativeDocumentMoniker": "Day5\\Program.cs",
               "ToolTip": "C:\\Users\\sonia\\Documents\\GitHub\\AdventOfCode2025\\AoC2025\\Day5\\Program.cs",
               "RelativeToolTip": "Day5\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwD4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T09:33:54.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sonia\\Documents\\GitHub\\AdventOfCode2025\\AoC2025\\Day4\\Program.cs",
               "RelativeDocumentMoniker": "Day4\\Program.cs",
               "ToolTip": "C:\\Users\\sonia\\Documents\\GitHub\\AdventOfCode2025\\AoC2025\\Day4\\Program.cs",
               "RelativeToolTip": "Day4\\Program.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAkwEIAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T08:17:18.943Z",
               "EditorCaption": ""
