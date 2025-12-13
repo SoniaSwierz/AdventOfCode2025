@@ -1,0 +1,15 @@
+C:\Users\sonia\Documents\GitHub\AdventOfCode2025\AoC2025\Day12\bin\Debug\net8.0\Day12.exe
+C:\Users\sonia\Documents\GitHub\AdventOfCode2025\AoC2025\Day12\bin\Debug\net8.0\Day12.deps.json
+C:\Users\sonia\Documents\GitHub\AdventOfCode2025\AoC2025\Day12\bin\Debug\net8.0\Day12.runtimeconfig.json
+C:\Users\sonia\Documents\GitHub\AdventOfCode2025\AoC2025\Day12\bin\Debug\net8.0\Day12.dll
+C:\Users\sonia\Documents\GitHub\AdventOfCode2025\AoC2025\Day12\bin\Debug\net8.0\Day12.pdb
+C:\Users\sonia\Documents\GitHub\AdventOfCode2025\AoC2025\Day12\obj\Debug\net8.0\Day12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonia\Documents\GitHub\AdventOfCode2025\AoC2025\Day12\obj\Debug\net8.0\Day12.AssemblyInfoInputs.cache
+C:\Users\sonia\Documents\GitHub\AdventOfCode2025\AoC2025\Day12\obj\Debug\net8.0\Day12.AssemblyInfo.cs
+C:\Users\sonia\Documents\GitHub\AdventOfCode2025\AoC2025\Day12\obj\Debug\net8.0\Day12.csproj.CoreCompileInputs.cache
+C:\Users\sonia\Documents\GitHub\AdventOfCode2025\AoC2025\Day12\obj\Debug\net8.0\Day12.sourcelink.json
+C:\Users\sonia\Documents\GitHub\AdventOfCode2025\AoC2025\Day12\obj\Debug\net8.0\Day12.dll
+C:\Users\sonia\Documents\GitHub\AdventOfCode2025\AoC2025\Day12\obj\Debug\net8.0\refint\Day12.dll
+C:\Users\sonia\Documents\GitHub\AdventOfCode2025\AoC2025\Day12\obj\Debug\net8.0\Day12.pdb
+C:\Users\sonia\Documents\GitHub\AdventOfCode2025\AoC2025\Day12\obj\Debug\net8.0\Day12.genruntimeconfig.cache
+C:\Users\sonia\Documents\GitHub\AdventOfCode2025\AoC2025\Day12\obj\Debug\net8.0\ref\Day12.dll
